@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhina&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20AI%20Agent%20Builder%20%7C%20SaaS%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/dhayalandhina/dhayalandhina/main/assets/profile.png" width="180" style="border-radius:50%"/>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Dhina+%F0%9F%91%8B;Full-Stack+%26+AI+Developer;Building+Maya+AI+%F0%9F%A4%96;Hotel+SaaS+%40+Microgenn+%F0%9F%8F%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -82,7 +84,6 @@ const dhina = {
 | 🤖 **[Maya AI Backend](https://github.com/dhayalandhina/maya-ai-backend)** | Intelligent conversational AI backend agent | Python, LLMs, FastAPI |
 | 🖥️ **[Employee Monitor](https://github.com/dhayalandhina/employee-monitor)** | Production-grade monitoring — activity tracking, screenshots, reports | Node.js, React, SQLite |
 | 🏨 **[Welbeck HMS](https://github.com/dhayalandhina/welbeck.hotelierhms.com)** | Hotel Management FrontOffice module | PHP, MySQL |
-| 🎨 **[Portfolio](https://github.com/dhayalandhina/portfolio)** | Personal developer portfolio | HTML, CSS, JS |
 
 </div>
 
@@ -118,8 +119,6 @@ const dhina = {
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *"Build fast. Ship smart. Keep learning."* 🚀
 
