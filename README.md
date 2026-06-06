@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dhayalandhina/dhayalandhina/main/assets/profile.png" width="180" style="border-radius:50%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhina&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20AI%20Agent%20Builder%20%7C%20SaaS%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/dhayalandhina/dhayalandhina/main/assets/profile.png" width="160"/>
 
 <br/>
 
@@ -119,6 +121,8 @@ const dhina = {
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *"Build fast. Ship smart. Keep learning."* 🚀
 
